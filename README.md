@@ -4,7 +4,7 @@
 
 ## 🛠 Навыки
 * **SQL:** JOIN, GROUP BY, CTE, оконные функции (ROW_NUMBER, LAG), подзапросы.
-* **Python:** базовый синтаксис, Pandas (в процессе), Jupyter/Colab.
+* **Python:** базовый синтаксис, Pandas (в процессе).
 * **Инструменты:** Git, Excel/Google Sheets.
 
 ## 📁 Проекты
